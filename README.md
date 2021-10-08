@@ -26,7 +26,7 @@ CIFAR-10 is a dataset of 60,000 color images (32 by 32 resolution) across 10 cla
 
 Use matplotlib and ipython notebook's visualization capabilities to display some of these images. See this PyTorch tutorial page for hints on how to achieve this.
 
-** Relevant Cell: "Data Loading" **
+** Relevant Cell: Data Loading **
 
 Training a Single Layer Network on MNIST [10%]
 Start by running the training on MNIST. By default if you run this notebook successfully, it will train on MNIST.
