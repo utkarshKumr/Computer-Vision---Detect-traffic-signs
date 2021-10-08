@@ -1,4 +1,4 @@
-# Computer-Vision - Detect-traffic-signs
+# Computer Vision: Detect traffic signs
 
 Computer Vision CSCI-GA.2272-001 Assignment 1, part 1.
 Fall 2021 semester.
